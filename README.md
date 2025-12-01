@@ -88,6 +88,12 @@ The firmware utilizes the RP2040's dual cores to separate concerns and leverages
 
 ## 📊 Results
 
+![](TensorFlow/export/model_io_example.png)
+
+![](TensorFlow/export/confusion_matrix_metrics.png)
+
+![](TensorFlow/export/confusion_matrices.png)
+
 - **Inference Speed:** ~889ms per frame (~1.1 FPS).
 - **Memory Footprint:**
   - Model: 126KB.
