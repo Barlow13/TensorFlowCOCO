@@ -91,7 +91,7 @@ The firmware utilizes the RP2040's dual cores to separate concerns and leverages
 
 - **Inference Speed:** ~889ms per frame (~1.1 FPS).
 - **Memory Footprint:**
-  - Model: 128KB.
+  - Model: 126KB.
   - Tensor Arena: 153KB (~58% of SRAM).
 - **Performance (F1-Score):**
   - **Person:** ~77%
